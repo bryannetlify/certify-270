@@ -8,7 +8,7 @@
           confirm which electors are selected to vote in the Electoral College.
           The law can differ between states but, in general, the winner of the
           state's popular vote will be awarded the electors. Electors are
-          nominated by each respective party.
+          nominated by each respective partyy.
         </p>
         <p class="text-center max-w-prose">
           Read more about the Electoral College on
